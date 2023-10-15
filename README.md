@@ -5,3 +5,11 @@ Important links:
 <a href="https://aws.amazon.com/s3/?nc2=h_ql_prod_st_s3">AWS S3</a></br>
 <a href="https://aws.amazon.com/s3/storage-classes/?nc=sn&loc=3">S3 Storage class</a><br/>
 <a href="https://aws.amazon.com/getting-started/hands-on/replicate-data-using-amazon-s3-replication/?ref=gsrchandson&id=new">Amazon S3 Replication</a><br/>
+
+<br/>
+<a href="https://aws.amazon.com/storagegateway">AWS Storage Gateway</a><br/>
+<a href="https://aws.amazon.com/blogs/storage/comparing-your-on-premises-storage-patterns-with-aws-storage-services">AWS Storage Gateway Comparison</a><br/>
+<a href="https://aws.amazon.com/cloud-data-migration">Cloud Data Migration</a></br>
+<a href="https://aws.amazon.com/snow">AWS Snow Family</a></br>
+<a href="https://aws.amazon.com/cloudformation/resources/templates/us-west-1">AWS CloudFormation Sample Templates</a></br>
+<a href="https://docs.aws.amazon.com/directconnect">AWS Direct Connect Documentation</a></br>
