@@ -13,3 +13,9 @@ Important links:
 <a href="https://aws.amazon.com/snow">AWS Snow Family</a></br>
 <a href="https://aws.amazon.com/cloudformation/resources/templates/us-west-1">AWS CloudFormation Sample Templates</a></br>
 <a href="https://docs.aws.amazon.com/directconnect">AWS Direct Connect Documentation</a></br>
+
+<br/>
+<a href="https://docs.aws.amazon.com/whitepapers/latest/aws-privatelink/what-are-vpc-endpoints.html">VPC endpoints</a></br>
+<a href="https://docs.aws.amazon.com/vpc/latest/tgw/what-is-transit-gateway.html">transit gateway</a></br>
+<a href="https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html">VPC peering</a></br>
+<a href=""></a></br>
